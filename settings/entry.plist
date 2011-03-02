@@ -3,7 +3,7 @@
 	bundle = MobileNotifierSettings;
 	cell = PSLinkCell;
 	detail = MobileNotifierSettingsListController;
-	icon = MobileNotifierSettings.png;
+	icon = Icon.png;
 	isController = 1;
 	label = MobileNotifierSettings;
     };
